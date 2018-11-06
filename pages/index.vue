@@ -4,7 +4,7 @@
       <el-col :span="5">
         <emenu />
       </el-col>
-      <el-col :span="19"></el-col>
+      <el-col :span="19">dd</el-col>
     </el-row>
     <el-row>
       <el-col :span="24"></el-col>
