@@ -9,6 +9,7 @@
     <el-row>
       <el-col :span="24">test01改变的</el-col>
     </el-row>
+    <span>test02</span>
   </div>
 </template>
 
