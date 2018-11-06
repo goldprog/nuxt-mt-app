@@ -7,7 +7,7 @@
       <el-col :span="19">dd</el-col>
     </el-row>
     <el-row>
-      <el-col :span="24"></el-col>
+      <el-col :span="24">test01改变的</el-col>
     </el-row>
   </div>
 </template>
