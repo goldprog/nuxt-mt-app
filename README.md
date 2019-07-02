@@ -1,6 +1,4 @@
-# mt-app
-
-> \
+# 美团pc官网服务端渲染例子
 
 ## Build Setup
 
